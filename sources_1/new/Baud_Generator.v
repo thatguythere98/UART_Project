@@ -11,7 +11,7 @@
 // Tool Versions: Vivado 2024.1
 // Description:
 //      This module generates a baud rate signal based on the selected divider value.
-//      It expects a 7.3728 MHz clock input and outputs a signal that is 16 times the
+//      It expects a 11.0592 MHz clock input and outputs a signal that is 16 times the
 //      selected baud rate. Supported baud rates are 9600, 19200, 38400, 57600, and
 //      115200.
 //
@@ -22,7 +22,7 @@
 //      Revision 0.01 - File Created
 //
 // Additional Comments:
-//      This module expects a 7.3728 MHz or 11.0592 MHz clock depending on setup.
+//
 //
 //////////////////////////////////////////////////////////////////////////////////
 
