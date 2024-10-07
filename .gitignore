@@ -1,0 +1,10 @@
+vivado.log
+vivado.jou
+UART.xpr
+UART.sim
+UART.runs
+UART.ip_user_files
+UART.hw
+UART.gen
+UART.cache
+/UART.srcs/utils_1/imports/synth_1/uart_system_controller.dcp
